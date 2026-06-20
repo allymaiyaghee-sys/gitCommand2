@@ -1,0 +1,29 @@
+/* @font-face {
+  font-family: 'Shapiro';
+  src: url('./shapiro/OGJ\ Type\ Design\ -\ Shapiro\ 5\ Light\ Fly.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Shapiro';
+  src: url('./Shapiro/') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Shapiro';
+  src: url('./shapiro-air.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+} */
+
+body{
+  font-family: 'Shapiro', sans-serif;
+}
+
+
