@@ -6,7 +6,7 @@ const ApplyPage = () => {
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-14">
           <span className="inline-block px-4 py-1 mb-4 text-sm font-semibold tracking-wider uppercase bg-blue-100 text-blue-950 rounded-full">
-            Admissions Open 2028
+            Admissions Open 2027
           </span>
           <div className="w-24 h-1 bg-blue-950 mx-auto rounded-full"></div>
         </div>
